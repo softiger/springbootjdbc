@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.List;  
   
 /** 
- * Created by steadyjack on 2017/3/22. 
+ * Created by softiger on 2017/3/22.  
  */  
 @RestController  
 @RequestMapping("/user")  
